@@ -1,0 +1,11 @@
+{
+  "hosting": {
+  	"site": "studyfriend",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
